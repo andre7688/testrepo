@@ -1,2 +1,2 @@
 # testrepo
-Test repo for futer commits of random staff
+Test repo for future commits of random staff
